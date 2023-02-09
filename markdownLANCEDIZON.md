@@ -1,8 +1,7 @@
-<hr>
-<h1 align="center">Lance's KNES 381 Tool Lab 3</h1>
+# <p align="center">Lance's KNES 381 Tool Lab 3</p>
 
-Image here -> | [image subfolder][image]
+Image here -> | ![croagunk](https://archives.bulbagarden.net/media/upload/thumb/9/92/Pokedex_Image_Croagunk_SV.png/356px-Pokedex_Image_Croagunk_SV.png)
 --------------|-------------------------
-text here     | text here
+text here     |
 
-[image]: lancedward/KNES381/tool_lab3
+[image]: tool_lab3/image.md
