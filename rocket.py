@@ -17,15 +17,7 @@ printRocket()
 
 delay = 300
 for i in range(60):
-    printRocket()
-    
-    for j in range(i):
-        print()
-    print(
-        """
-        ___________________________________
-
-        """
-    )
+    print()
     sleep(delay/1000)
-    delay = delay *0.9
+    delay = delay * 0.9
+    
