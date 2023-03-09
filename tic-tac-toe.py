@@ -3,7 +3,11 @@ board = [["_" for i in range(3)] for j in range(3)]
 
 # define the player's move
 def make_move(board, player, row, col):
-  board[row][col] = player
+  if board[row][col] == '_':
+    board[row][col] = player
+  else: 
+    print("That slot is taken, please choose another")
+
 
 # define the function to check for a winner
 def check_winner(board):
